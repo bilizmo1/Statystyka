@@ -1,4 +1,4 @@
-# Statystyka 204/2025
+# Probability Theory and Statistic 2024/2025
 Repository for Probability Theory and Statistics from courses at AGH University of Science and Technology in Cracow
 
 # Part 1: Statistical Problems in R
